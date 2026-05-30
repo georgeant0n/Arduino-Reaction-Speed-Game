@@ -39,7 +39,8 @@ Based on the provided code and wiring diagram, here is the hardware setup:
 
 ## 📸 Circuit Diagram
 
-*(Upload your breadboard image here)*
+<img width="1333" height="1073" alt="image" src="https://github.com/user-attachments/assets/5dc05ed5-62da-4c63-80e8-7f23ebc275ad" />
+
 
 ## 🚀 How to Run
 
